@@ -1,5 +1,6 @@
 
 # Hyperledger Fabric [![join the chat][rocketchat-image]][rocketchat-url]
+**This is the applied result of [fabric-sm-patch](https://github.com/flyinox/fabric-sm-patch). All right reserved for Author `flyinox`**
 
 [rocketchat-url]: https://chat.hyperledger.org/channel/fabric
 [rocketchat-image]: https://open.rocket.chat/images/join-chat.svg
@@ -10,8 +11,7 @@
 [![GoDoc](https://godoc.org/github.com/hyperledger/fabric?status.svg)](https://godoc.org/github.com/hyperledger/fabric)
 [![Documentation Status](https://readthedocs.org/projects/hyperledger-fabric/badge/?version=release-1.4)](http://hyperledger-fabric.readthedocs.io/en/release-1.4/?badge=release-1.4)
 
-**Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
-where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/Dashboard.jspa?selectPageId=10104).
+Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/Dashboard.jspa?selectPageId=10104).
 
 This project is an _Active_ Hyperledger project. For more information on the history of this project see the [Fabric wiki page](https://wiki.hyperledger.org/display/fabric). Information on what _Active_ entails can be found in
 the [Hyperledger Project Lifecycle document](https://wiki.hyperledger.org/display/HYP/Project+Lifecycle).
